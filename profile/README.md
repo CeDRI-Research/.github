@@ -1,10 +1,10 @@
-# CeDRI-IPB Project Catalog
+## CeDRI-IPB Project Catalog
 
-Public catalog of projects and repositories from CEDRI-IPB.
+The Research Centre in Digitalization and Intelligent Robotics (CeDRI) is an applied inter-disciplinar research unit that clusters together active researchers from the fields of Electronics, Computer Science and Mathematics. The research activities at CeDRI aims to develop scientific knowledge and applications in technological systems of high impact in industry, fostering the competitiveness of the socio-economic system, with a special focus on regions of low population and economy density, characterized by SMEs that combine a small scale with a rarefied local industrial system and where their competiveness is strongly affected by the difficulties to access industrial innovation.
 
-Total visible projects: 3
+Public catalog of projects and repositories from CeDRI
 
-## Overview
+###    Overview
 
 | Name | Visibility | Type | Project | Research Areas | Responsible |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@ Total visible projects: 3
 | Vineyard Autonomous Navigation | private | research | VineScout, CeDRI Navigation Stack | agricultural robotics, autonomous navigation, computer vision | Vinicius Grilo (vinicius.grilo@ipb.pt)<br>Fulano de Tal (fulano@ipb.pt) |
 | cedri-demo-project-3 | private | unknown | No info available | No info available | No info available |
 
-## Project Details
+### Project Details
 
 <details>
 <summary><strong>Catalog Test Repository</strong></summary>
