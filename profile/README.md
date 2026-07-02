@@ -8,7 +8,7 @@ Total visible projects: 3
 
 | Name | Visibility | Type | Project | Research Areas | Responsible |
 |---|---|---|---|---|---|
-| cedri-demo-project | private | research | CeDRI Catalog | robotics, autonomous systems | Vinicius Grilo (viniciusgrilo@ipb.pt) |
+| [Catalog Test Repository](https://github.com/CeDRI-Research/catalog-test) | public | research | CeDRI Catalog | robotics, autonomous systems | Vinicius Grilo (viniciusgrilo@ipb.pt) |
 | cedri-demo-project-2 | private | research | VineScout, CeDRI Navigation Stack | agricultural robotics, autonomous navigation, computer vision | Vinicius Grilo (vinicius.grilo@ipb.pt), Fulano de Tal (fulano@ipb.pt) |
 | cedri-demo-project-3 | private | unknown |  |  | No info available |
 
@@ -17,7 +17,7 @@ Total visible projects: 3
 <details>
 <summary><strong>Catalog Test Repository</strong></summary>
 
-**Visibility:** private  
+**Visibility:** public  
 **Type:** research  
 **Project:** CeDRI Catalog  
 **Research Areas:** robotics, autonomous systems  
@@ -27,6 +27,7 @@ Total visible projects: 3
 Test repository to validate the CeDRI organization catalog.
 
 **Links:**
+- Repository: [https://github.com/CeDRI-Research/catalog-test](https://github.com/CeDRI-Research/catalog-test)
 - Documentation: [https://github.com/CeDRI-Research/catalog-test/blob/main/README.md](https://github.com/CeDRI-Research/catalog-test/blob/main/README.md)
 
 **Related Papers:**
