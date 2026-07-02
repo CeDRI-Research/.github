@@ -9,8 +9,8 @@ Total visible projects: 3
 | Name | Visibility | Type | Project | Research Areas | Responsible |
 |---|---|---|---|---|---|
 | [Catalog Test Repository](https://github.com/CeDRI-Research/catalog-test) | public | research | CeDRI Catalog | robotics, autonomous systems | Vinicius Grilo (viniciusgrilo@ipb.pt) |
-| cedri-demo-project-2 | private | research | VineScout, CeDRI Navigation Stack | agricultural robotics, autonomous navigation, computer vision | Vinicius Grilo (vinicius.grilo@ipb.pt), Fulano de Tal (fulano@ipb.pt) |
-| cedri-demo-project-3 | private | unknown |  |  | No info available |
+| Vineyard Autonomous Navigation | private | research | VineScout, CeDRI Navigation Stack | agricultural robotics, autonomous navigation, computer vision | Vinicius Grilo (vinicius.grilo@ipb.pt)<br>Fulano de Tal (fulano@ipb.pt) |
+| cedri-demo-project-3 | private | unknown | No info available | No info available | No info available |
 
 ## Project Details
 
@@ -42,7 +42,7 @@ Test repository to validate the CeDRI organization catalog.
 **Type:** research  
 **Project:** VineScout, CeDRI Navigation Stack  
 **Research Areas:** agricultural robotics, autonomous navigation, computer vision  
-**Owners:** Vinicius Grilo (vinicius.grilo@ipb.pt), Fulano de Tal (fulano@ipb.pt)
+**Owners:** Vinicius Grilo (vinicius.grilo@ipb.pt)<br>Fulano de Tal (fulano@ipb.pt)
 
 **Description:**  
 Experimental repository for autonomous navigation and perception in vineyard environments.
@@ -63,8 +63,8 @@ Experimental repository for autonomous navigation and perception in vineyard env
 
 **Visibility:** private  
 **Type:** unknown  
-**Project:**   
-**Research Areas:**   
+**Project:** No info available  
+**Research Areas:** No info available  
 **Owners:** No info available
 
 **Description:**  
