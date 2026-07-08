@@ -8,8 +8,8 @@ The Research Centre in Digitalization and Intelligent Robotics (CeDRI) is an app
 |---|---|---|---|---|---|
 | [Catalog Test Repository](https://github.com/CeDRI-Research/cedri-demo-project) | public | research | CeDRI Catalog | robotics, autonomous systems | Vinicius Grilo (viniciusgrilo@ipb.pt) |
 | Vineyard Autonomous Navigation | private | research | VineScout, CeDRI Navigation Stack | agricultural robotics, autonomous navigation, computer vision | Vinicius Grilo (vinicius.grilo@ipb.pt)<br>Fulano de Tal (fulano@ipb.pt) |
-| agro-robotics | private | unknown | No info available | No info available | No info available |
 | cedri-demo-project-3 | private | unknown | No info available | No info available | No info available |
+| agro-robotics | private | unknown | No info available | No info available | No info available |
 
 ### Project Details
 
@@ -25,7 +25,7 @@ The Research Centre in Digitalization and Intelligent Robotics (CeDRI) is an app
 **Research Areas:** robotics, autonomous systems  
 **Owners:** Vinicius Grilo (viniciusgrilo@ipb.pt)  
 **Description:**  Test repository to validate the CeDRI organization catalog.  
-**Links:** <br>Repository: <a href="https://github.com/CeDRI-Research/cedri-demo-project">https://github.com/CeDRI-Research/cedri-demo-project</a>  <br>Documentation: <a href="https://github.com/CeDRI-Research/catalog-test/blob/main/README.md">https://github.com/CeDRI-Research/catalog-test/blob/main/README.md</a>  
+**Links:** <br>Repository: <a href="https://github.com/CeDRI-Research/catalog-test">https://github.com/CeDRI-Research/catalog-test</a>  <br>Documentation: <a href="https://github.com/CeDRI-Research/catalog-test/blob/main/README.md">https://github.com/CeDRI-Research/catalog-test/blob/main/README.md</a>  
 
 **Related Papers:** <br><a href="https://www.pearson.com/en-us/subject-catalog/p/introduction-to-robotics-mechanics-and-control/P200000003304/9780137848744">Introduction to Robotics: Mechanics and Control, 3/E </a> (Pearson Education India, 2009)
 
@@ -52,7 +52,7 @@ The Research Centre in Digitalization and Intelligent Robotics (CeDRI) is an app
 </details>
 
 <details>
-<summary><strong>agro-robotics</strong></summary>
+<summary><strong>cedri-demo-project-3</strong></summary>
 
 <div style="margin-left: 1em;">
 
@@ -68,7 +68,7 @@ The Research Centre in Digitalization and Intelligent Robotics (CeDRI) is an app
 </details>
 
 <details>
-<summary><strong>cedri-demo-project-3</strong></summary>
+<summary><strong>agro-robotics</strong></summary>
 
 <div style="margin-left: 1em;">
 
