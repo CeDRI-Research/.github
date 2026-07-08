@@ -25,9 +25,8 @@ The Research Centre in Digitalization and Intelligent Robotics (CeDRI) is an app
 **Research Areas:** robotics, autonomous systems  
 **Owners:** Vinicius Grilo (viniciusgrilo@ipb.pt)  
 **Description:**  Test repository to validate the CeDRI organization catalog.  
-**Links:** <br>Repository: <a href="https://github.com/CeDRI-Research/catalog-test">https://github.com/CeDRI-Research/catalog-test</a>  <br>Documentation: <a href="https://github.com/CeDRI-Research/catalog-test/blob/main/README.md">https://github.com/CeDRI-Research/catalog-test/blob/main/README.md</a>  
-
-**Related Papers:** <br><a href="https://www.pearson.com/en-us/subject-catalog/p/introduction-to-robotics-mechanics-and-control/P200000003304/9780137848744">Introduction to Robotics: Mechanics and Control, 3/E </a> (Pearson Education India, 2009)
+**Links:** <br>&nbsp;&nbsp;&nbsp;&nbsp; - Repository: <a href="https://github.com/CeDRI-Research/catalog-test">https://github.com/CeDRI-Research/catalog-test</a>  <br>&nbsp;&nbsp;&nbsp;&nbsp; - Documentation: <a href="https://github.com/CeDRI-Research/catalog-test/blob/main/README.md">https://github.com/CeDRI-Research/catalog-test/blob/main/README.md</a>    
+**Related Papers:** <br>&nbsp;&nbsp;&nbsp;&nbsp; - <a href="https://www.pearson.com/en-us/subject-catalog/p/introduction-to-robotics-mechanics-and-control/P200000003304/9780137848744">Introduction to Robotics: Mechanics and Control, 3/E </a> (Pearson Education India, 2009)
 
 </div>
 </details>
@@ -44,9 +43,8 @@ The Research Centre in Digitalization and Intelligent Robotics (CeDRI) is an app
 **Research Areas:** agricultural robotics, autonomous navigation, computer vision  
 **Owners:** Vinicius Grilo (vinicius.grilo@ipb.pt), Fulano de Tal (fulano@ipb.pt)  
 **Description:**  Experimental repository for autonomous navigation and perception in vineyard environments.  
-**Links:** <br>Homepage: <a href="https://cedri.ipb.pt/projects/vineyard-nav">https://cedri.ipb.pt/projects/vineyard-nav</a>  <br>Documentation: <a href="https://github.com/CeDRI-Research/vineyard-nav/blob/main/README.md">https://github.com/CeDRI-Research/vineyard-nav/blob/main/README.md</a>  <br>Demo: <a href="https://youtu.be/example-vineyard-nav-demo">https://youtu.be/example-vineyard-nav-demo</a>  
-
-**Related Papers:** <br><a href="https://example.org/papers/visual-navigation-agri-fields">Visual Navigation for Autonomous Robots in Structured Agricultural Fields </a> (Journal of Field Robotics, 2024)<br><a href="https://example.org/papers/vineyard-localization">Perception and Localization Strategies for Vineyard Robots </a> (ICRA Workshop on Agricultural Robotics, 2025)
+**Links:** <br>&nbsp;&nbsp;&nbsp;&nbsp; - Homepage: <a href="https://cedri.ipb.pt/projects/vineyard-nav">https://cedri.ipb.pt/projects/vineyard-nav</a>  <br>&nbsp;&nbsp;&nbsp;&nbsp; - Documentation: <a href="https://github.com/CeDRI-Research/vineyard-nav/blob/main/README.md">https://github.com/CeDRI-Research/vineyard-nav/blob/main/README.md</a>  <br>&nbsp;&nbsp;&nbsp;&nbsp; - Demo: <a href="https://youtu.be/example-vineyard-nav-demo">https://youtu.be/example-vineyard-nav-demo</a>    
+**Related Papers:** <br>&nbsp;&nbsp;&nbsp;&nbsp; - <a href="https://example.org/papers/visual-navigation-agri-fields">Visual Navigation for Autonomous Robots in Structured Agricultural Fields </a> (Journal of Field Robotics, 2024)<br>&nbsp;&nbsp;&nbsp;&nbsp; - <a href="https://example.org/papers/vineyard-localization">Perception and Localization Strategies for Vineyard Robots </a> (ICRA Workshop on Agricultural Robotics, 2025)
 
 </div>
 </details>
@@ -63,7 +61,6 @@ The Research Centre in Digitalization and Intelligent Robotics (CeDRI) is an app
 **Research Areas:** No info available  
 **Owners:** No info available  
 **Description:**  No info available  
-
 </div>
 </details>
 
@@ -79,6 +76,5 @@ The Research Centre in Digitalization and Intelligent Robotics (CeDRI) is an app
 **Research Areas:** No info available  
 **Owners:** No info available  
 **Description:**  No info available  
-
 </div>
 </details>
