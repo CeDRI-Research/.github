@@ -10,7 +10,6 @@ Public catalog of projects and repositories from CeDRI
 |---|---|---|---|---|---|
 | [Catalog Test Repository](https://github.com/CeDRI-Research/catalog-test) | public | research | CeDRI Catalog | robotics, autonomous systems | Vinicius Grilo (viniciusgrilo@ipb.pt) |
 | Vineyard Autonomous Navigation | private | research | VineScout, CeDRI Navigation Stack | agricultural robotics, autonomous navigation, computer vision | Vinicius Grilo (vinicius.grilo@ipb.pt)<br>Fulano de Tal (fulano@ipb.pt) |
-| [.github](https://github.com/CeDRI-Research/.github) | public | unknown | No info available | No info available | No info available |
 | agro-robotics | private | unknown | No info available | No info available | No info available |
 | cedri-demo-project-3 | private | unknown | No info available | No info available | No info available |
 
@@ -57,26 +56,6 @@ Experimental repository for autonomous navigation and perception in vineyard env
 **Related Papers:**
 - [Visual Navigation for Autonomous Robots in Structured Agricultural Fields](https://example.org/papers/visual-navigation-agri-fields) (Journal of Field Robotics, 2024)
 - [Perception and Localization Strategies for Vineyard Robots](https://example.org/papers/vineyard-localization) (ICRA Workshop on Agricultural Robotics, 2025)
-
-</details>
-
-<details>
-<summary><strong>.github</strong></summary>
-
-**Visibility:** public  
-**Type:** unknown  
-**Project:** No info available  
-**Research Areas:** No info available  
-**Owners:** No info available
-
-**Description:**  
-No info available
-
-**Links:**
-- Repository: [https://github.com/CeDRI-Research/.github](https://github.com/CeDRI-Research/.github)
-
-**Related Papers:**
-- None listed
 
 </details>
 
