@@ -85,3 +85,5 @@ The Research Centre in Digitalization and Intelligent Robotics (CeDRI) is an app
 </div>
 </details>
 
+
+> **Note on private repositories:** Access to private repositories is restricted to authorized CeDRI members and collaborators. To request access, obtain further information, or discuss a potential collaboration, please email the responsible contacts.
