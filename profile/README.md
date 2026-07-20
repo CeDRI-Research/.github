@@ -7,8 +7,6 @@ The Research Centre in Digitalization and Intelligent Robotics (CeDRI) is an app
 | Name | Visibility | Type | Project | Research Areas | Responsible |
 |---|---|---|---|---|---|
 | [Catalog Test Repository](https://github.com/CeDRI-Research/cedri-demo-project) | public | research | CeDRI Catalog | robotics, autonomous systems | Vinicius Grilo (viniciusgrilo@ipb.pt) |
-| agro-robotics | private | unknown | No info available | No info available | No info available |
-| cedri-demo-project-3 | private | unknown | No info available | No info available | No info available |
 | Vineyard Autonomous Navigation | private | research | VineScout, CeDRI Navigation Stack | agricultural robotics, autonomous navigation, computer vision | Vinicius Grilo (vinicius.grilo@ipb.pt)<br>Fulano de Tal (fulano@ipb.pt) |
 
 ### Project Details
@@ -29,36 +27,6 @@ The Research Centre in Digitalization and Intelligent Robotics (CeDRI) is an app
 &nbsp;&nbsp;&nbsp;&nbsp; - Documentation: <a href="https://github.com/CeDRI-Research/catalog-test/blob/main/README.md">https://github.com/CeDRI-Research/catalog-test/blob/main/README.md</a><br>
 **Academic Publications:** <br>
 &nbsp;&nbsp;&nbsp;&nbsp; - <a href="https://www.pearson.com/en-us/subject-catalog/p/introduction-to-robotics-mechanics-and-control/P200000003304/9780137848744">Introduction to Robotics: Mechanics and Control, 3/E </a> (Pearson Education India, 2009)<br>
-
-</div>
-</details>
-
-<details>
-<summary><strong>agro-robotics</strong></summary>
-
-<div style="margin-left: 1em;">
-
-**Visibility:** private  
-**Type:** unknown  
-**Project:** No info available  
-**Research Areas:** No info available  
-**Owners:** No info available  
-**Description:** No info available  
-
-</div>
-</details>
-
-<details>
-<summary><strong>cedri-demo-project-3</strong></summary>
-
-<div style="margin-left: 1em;">
-
-**Visibility:** private  
-**Type:** unknown  
-**Project:** No info available  
-**Research Areas:** No info available  
-**Owners:** No info available  
-**Description:** No info available  
 
 </div>
 </details>
